@@ -11,10 +11,15 @@ import (
 
 var wordsToGuess = []string{
 	"golang",
-	"programming",
+	"ynovcampus",
 	"computer",
-	"developer",
-	"engineer",
+	"abdeldead",
+	"bloody",
+	"hallowen",
+	"corpse",
+	"abdelthereaper",
+	"accident",
+	"saveme",
 }
 
 var maxAttempts = 10
