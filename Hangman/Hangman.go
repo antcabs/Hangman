@@ -9,7 +9,7 @@ import (
 )
 
 var (
-	words = []string{"ABDEL", "DJOKOVIC", "LEOLECON", "YNOVPUTE", "SALOPEDEPUTE", "PETITBABYFOOT"}
+	words = []string{"ABDEL", "DJOKOVIC", "PETITBABYFOOT"}
 	
 )
 type Game struct {
